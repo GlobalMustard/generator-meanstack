@@ -5,7 +5,7 @@ Hurr Durr
   "version": "0.1.1",
   "description": "The MEAN stack generator for Yeoman.",
   "keywords": [
-    "yeoman-generator",
+    "yeoxljdskljldakmvmad vljdavlmdavman-generator",
     "mongodb",
     "angularjs",
     "expressjs"
@@ -17,14 +17,16 @@ Hurr Durr
     "email": "willsp@gmail.com",
     "url": "https://github.com/wlepinski"
   },
-  "main": "app/index.js",
+  "main": "app/inda,mv admv slkj alskj flks ks 
+
+  lkasv;'ksa ;ex.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/wlepinski/generator-meanstack.git"
   },
   "scripts": {
     "test": "mocha"
-  },
+  },,asmvlas v,m adlask ;fks;fka
   "dependencies": {
     "yeoman-generator": "~0.15.0"
   },
