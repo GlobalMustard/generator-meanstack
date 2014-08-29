@@ -13,27 +13,7 @@ Hurr Durr
   "homepage": "https://github.com/wlepinski/generator-meanstack",
   "bugs": "https://github.com/wlepinski/generator-meanstack/issues",
   "author": {
-    "name": "William Albino Lepinski",
-    "email": "willsp@gmail.com",
-    "url": "https://github.com/wlepinski"
-  },
-  "main": "app/inda,mv admv slkj alskj flks ks 
-
-  lkasv;'ksa ;ex.js",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/wlepinski/generator-meanstack.git"
-  },
-  "scripts": {
-    "test": "mocha"
-  },,asmvlas v,m adlask ;fks;fka
-  "dependencies": {
-    "yeoman-generator": "~0.15.0"
-  },
-  "devDependencies": {
-    "mocha": "~1.16.1"
-  },
-  "engines": {
+    "name"
     "node": ">=0.10.x"
   },
   "licenses": [
